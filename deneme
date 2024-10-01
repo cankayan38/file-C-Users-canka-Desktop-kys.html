@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>ilk web sayfamız</title>
+</head>
+<body background="mavi.jpg" text="black">
+<font size="9" face="times new roman"> 
+
+ilk web sayfamıza hoş geldiniz </br>
+
+aşağı geç  </p>
+paragraf başı </p>
+<i> eğik yazı deneme </i> </p>
+<em> vurgulu yazı deneme </em> </p>
+<ins> altı çizili metin </ins> </p>
+<p> ilk paragraf denemesi yapılıyor sayfamıza hoş geldiniz paragraf paragraf parag paragraf paragraf paragraf paragraf denemesi 123 123 deneme 123paragraf paragraf </p>
+<del> üstü çizili metin </del> </p>
+<mark>işaretlenmiş yazı 123 </mark>
+
+<hr width="70%" align="center" color=red />
+<hr width="40%" align="left" />
+<hr width="40%" align="right" />
+<hr width="100%" align="center" />
+<img src="kayseri.jpg" alt="Açıklayıcı Metin" width="650" height="450" style="display:block; margin:auto;"> </p>
+<em>kayseri meydanı </em> </p>
+<a href="https://www.instagram.com" style="color: red; text-decoration: none;">instagram sayfası için tıklayınız </a>
+</font>
+</body>
+</html>
